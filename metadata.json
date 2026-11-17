@@ -1,0 +1,8 @@
+{
+  "name": "Mizan",
+  "description": "Offline-first personal finance and zero-based envelope budgeting PWA with multi-profile PIN isolation, daily spending pace, and local backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" stroke="#1E293B" stroke-width="4"/>
+  <!-- Mizan Geometric Balance Scale -->
+  <path d="M256 116V376" stroke="#14B8A6" stroke-width="22" stroke-linecap="round"/>
+  <path d="M180 376H332" stroke="#14B8A6" stroke-width="22" stroke-linecap="round"/>
+  <path d="M132 184L256 144L380 184" stroke="#F8FAFC" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132 184L96 276C96 298 116 312 132 312C148 312 168 298 168 276L132 184Z" fill="#14B8A6" fill-opacity="0.22" stroke="#14B8A6" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M380 184L344 276C344 298 364 312 380 312C396 312 416 298 416 276L380 184Z" fill="#14B8A6" fill-opacity="0.22" stroke="#14B8A6" stroke-width="14" stroke-linejoin="round"/>
+  <circle cx="256" cy="144" r="16" fill="#F8FAFC"/>
+</svg>
